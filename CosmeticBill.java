@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  * A program to calculate the total bill for cosmetic products, applying discounts and tax.
- * @author Annageldi, Bordjali 
+ * @author Annageldi
  * @version 1.0
  */
 public class CosmeticBill {
